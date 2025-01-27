@@ -1,11 +1,21 @@
-# MTG Deck Aider
-## SENG 401 G7 Project
+# Mystic Tuner - SENG 401 G7 Project
+
+## Codebase Organization
+The codebase is separated into different repositories for different layers in the architecture.
+
+- [Frontend](https://github.com/MTG-Deck-Aid/frontend): Application Layer for the user interface.
+- [Backend](https://github.com/MTG-Deck-Aid/backend): Application Layer for business logic.
+- [Database](https://github.com/MTG-Deck-Aid/database): Application Layer for data persistence.
+- [Documentation](https://github.com/MTG-Deck-Aid/documentation): General documentation for the application. The specific details to each layer is in it's respective repository.
+
 
 <!--
 
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
+
+
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
