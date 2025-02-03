@@ -6,7 +6,7 @@ The codebase is separated into different repositories for different layers in th
 - [Frontend](https://github.com/MTG-Deck-Aid/frontend): Application Layer for the user interface.
 - [Backend](https://github.com/MTG-Deck-Aid/backend): Application Layer for business logic.
 - [Database](https://github.com/MTG-Deck-Aid/database): Application Layer for data persistence.
-- [Documentation](https://github.com/MTG-Deck-Aid/documentation): General documentation for the application. The specific details to each layer is in it's respective repository.
+- [Documentation and Development](https://github.com/MTG-Deck-Aid/documentation): General documentation for the application. The specific details to each layer is in it's respective repository. Also provides application wide code, like local setup configurations.
 
 
 <!--
