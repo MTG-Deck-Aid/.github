@@ -1,6 +1,6 @@
 # Mystic Tuner - SENG 401 G7 Project
 
-View Mystic Tuner at https://mystictuner.live
+
 
 ## Codebase Organization
 The codebase is separated into different repositories for different layers in the architecture.
